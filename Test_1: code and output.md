@@ -2,8 +2,8 @@
 
 ### Code 1
 
-        // the defualt values of the TabularPrint
-        // --------------------------------------
+        // the defualt values of TabularPrint
+        // ------------------------------
         
         // create a TabularPrint object
         TabularPrint tp1 = new TabularPrint();
